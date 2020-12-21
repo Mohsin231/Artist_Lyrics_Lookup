@@ -62,6 +62,14 @@ searchButton.addEventListener("click", function(event){
         let gender = document.getElementById("gender")
         gender.innerHTML=data.artists[0].strGender
 
+        let age = document.getElementById("age")
+        if (data.artists[0].intDiedYear===null && data.artists[0].intBornYear==null){
+          age.innerHTML=""
+        }
+        else if(data.artists[0].intDiedYear===null){
+        age.innerHTML="2020"-data.artists[0].intBornYear}
+        else {data.artists[0].intDiedYear-data.artists[0].intBornYear}
+
         let country = document.getElementById("country")
         country.innerHTML=data.artists[0].strCountry
 
@@ -69,7 +77,7 @@ searchButton.addEventListener("click", function(event){
         genre.innerHTML=data.artists[0].strGenre
 
         let website = document.getElementById("website")
-        website.href=data.artists[0].strWebsite
+        website.innerHTML=data.artists[0].strWebsite
 
         let bio = document.getElementById("bio")
         bio.innerHTML=data.artists[0].strBiographyEN

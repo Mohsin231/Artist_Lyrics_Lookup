@@ -3,9 +3,9 @@
 
 html {
     /* background-image: url("https://steamuserimages-a.akamaihd.net/ugc/931551196253772421/208C371B8E73E667B9955B0CB01CB47E49DFF330/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"); */
-    background-image: url("music.jpg");
+    background-image: url("music.jpg"); 
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100%; 
     color: white; 
     font-family: 'Langar', cursive;
     font-size: 16px;
@@ -53,6 +53,27 @@ div {
     justify-content: space-around;
     
 }
+h3, h2 {
+        background-color: dodgerblue;
+        border: none;
+        color: #fff;
+        padding: 10px 10px 10px 10px;
+        text-decoration: none;
+        font-size: 23px;
+        
+}
+
+p {
+    font-size: 23px;
+}
+
+.boxed {
+    border: 1px solid blue ;
+    background-color:rgba(0,0,0,0.7);
+    min-height: 280px;
+
+    
+}
 
 #image {
     position: absolute;
@@ -64,13 +85,19 @@ div {
 
 #bio {
     position: absolute;
-    bottom: 280px;
+    top: 435px;
+    width: 90%;
+    font-size: 20px;
+    
+
     
 }
-#bio1 {
+#biotitle {
     position: absolute;
-    bottom: 520px;
-    word-wrap: break-word;
+    bottom: 470px;
+    
+    
+    
 }
 
 
