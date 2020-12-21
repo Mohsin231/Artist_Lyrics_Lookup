@@ -1,0 +1,81 @@
+/* https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaper-mania.com%2Fbackground%2Fmusic-wallpapers%2Fmusic-sound-waves-live%2F&psig=AOvVaw092Nx4GRki9I5gz9pECk0A&ust=1608565171754000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLC-r5b23O0CFQAAAAAdAAAAABAD */
+
+
+html {
+    /* background-image: url("https://steamuserimages-a.akamaihd.net/ugc/931551196253772421/208C371B8E73E667B9955B0CB01CB47E49DFF330/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"); */
+    background-image: url("music.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white; 
+    font-family: 'Langar', cursive;
+    font-size: 16px;
+    
+
+    
+}
+
+
+
+main {
+    display:flex;
+    flex-direction: column-reverse;
+}
+
+img{
+    width: 200px;
+    height: 200px;;
+    
+}
+
+form {
+    text-align: center;
+}
+input {
+    background-color: dodgerblue;
+        border: none;
+        color: #fff;
+        padding: 15px 30px;
+        text-decoration: none;
+        margin: 4px 2px;
+        cursor: pointer;
+}
+/* https://www.designpieces.com/2012/12/how-to-style-html5-input-placeholder-with-css */
+
+input::-webkit-input-placeholder {
+    color: black;
+    font-weight: bold;
+}
+
+div {
+    padding-top:230px;
+    display: flex;
+    justify-content: row;
+    justify-content: space-around;
+    
+}
+
+#image {
+    position: absolute;
+    top: 80px;
+    right: 890px;
+    
+}
+
+
+#bio {
+    position: absolute;
+    bottom: 280px;
+    
+}
+#bio1 {
+    position: absolute;
+    bottom: 520px;
+    word-wrap: break-word;
+}
+
+
+/* @media screen and (min-width:800px){
+    main{
+        
+    }
+} */
