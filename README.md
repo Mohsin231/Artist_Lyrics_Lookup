@@ -19,12 +19,22 @@
 | Total | X | 9.25 hrs | 13 hrs  |  13 hrs|
 
 
+  
 
 
 
+## Technologies Used 
+* JavaScript
+* HTML5
+* CSS3
+
+## User Stories 
+
+## Wireframes 
+
+## Screenshot of Website 
 ![Website](web_screenshot.PNG)
 
-
-
-Link: https://mohsin231.github.io/Artist_Lookup_API/
+## Link
+https://mohsin231.github.io/Artist_Lookup_API/
 
