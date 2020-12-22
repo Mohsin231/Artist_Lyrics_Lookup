@@ -19,10 +19,4 @@
 
 
 
-Day	Deliverable	Status
-Dec 17	Project Pitch / Wireframes	incomplete
-Dec 18	some task	incomplete
-Dec 19 - 20	weekend goals	incomplete
-Dec 22	more tasks	incomplete
-Dec 22	finalizing	incomplete
-Dec 23	Presentations
+
