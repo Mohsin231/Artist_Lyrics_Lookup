@@ -22,7 +22,8 @@
 
 
 
-
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 
 Link: https://mohsin231.github.io/Artist_Lookup_API/
