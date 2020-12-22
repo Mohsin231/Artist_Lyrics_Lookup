@@ -23,7 +23,7 @@
 
 
 ![Website](web_screenshot.PNG)
-Format: ![Alt Text](url)
+
 
 
 Link: https://mohsin231.github.io/Artist_Lookup_API/
