@@ -15,7 +15,7 @@
 | Getting search bars functioning | M | 1 hrs|  2 hrs | 2 hrs |
 | Styling| M | 2 hrs|   2.5 hrs|  2.5 hrs |
 | Responsive Styling | L | 2 hrs| 2 hrs |  2 hrs  |
-| Total | X | X  hrs |X  hrs  |  X hrs|
+| Total | X | 9.25 hrs | 13 hrs  |  13 hrs|
 
 
 
