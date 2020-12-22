@@ -22,7 +22,7 @@
 
 
 
-![GitHub Logo](/images/logo.png)
+![Website](web_screenshot.PNG)
 Format: ![Alt Text](url)
 
 
