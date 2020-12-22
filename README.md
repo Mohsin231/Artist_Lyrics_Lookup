@@ -1,10 +1,11 @@
 # Artist_Lookup_API
 
  An embedded screenshot of the app
- List of the Technologies used
+ Technologies used: JavaScript, HTML5, CSS3
  Installation instructions
  Your User stories – who are your users, what do they want and why?
- Your Wireframes – sketches of major views / interfaces in your application
+ Wireframes – sketches of major views / interfaces in your application
+ 
  Descriptions of any Unsolved problems or major hurdles you had to overcome
  
 | Task | Priority | Estimated Time | Time Invested | Actual Time |
@@ -16,6 +17,9 @@
 | Styling| M | 2 hrs|   2.5 hrs|  2.5 hrs |
 | Responsive Styling | L | 2 hrs| 2 hrs |  2 hrs  |
 | Total | X | 9.25 hrs | 13 hrs  |  13 hrs|
+
+
+
 
 
 Link: https://mohsin231.github.io/Artist_Lookup_API/
