@@ -10,10 +10,10 @@
 | Task | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Setting up site framework | H | 1 hrs| 1 hrs | 1 hrs |
-| Getting API to log and render | H |  1.25 hrs| 3 hrs | 3 hrs | Spotify API didn't work
-| Creating game logic | H | 2 hrs| 3 hrs |  3 hrs  |
+| Getting API to log and render | H |  1.25 hrs| 2.5 hrs | 2.5 hrs | Spotify API didn't work
+| Creating game logic | H | 2 hrs| 2 hrs |  2 hrs  |
 | Getting search bars functioning | M | 1 hrs|  1.5 hrs | 1.5 hrs |
-| Styling| M | 3 hrs|   3.5 hrs|  3.5 hrs |
+| Styling| M | 2 hrs|   2.5 hrs|  2.5 hrs |
 | Responsive Styling | L | 2 hrs| 1.5 hrs |  1.5 hrs  |
 | Total | X | X  hrs |X  hrs  |  X hrs|
 
