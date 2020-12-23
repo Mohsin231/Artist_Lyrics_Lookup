@@ -51,6 +51,6 @@
 ![Website](web_screenshot.PNG)
 
 ## Link
-https://mohsin231.github.io/Artist_Lookup_API/
+https://mohsin231.github.io/Artist_Lyrics_Lookup/
 
 
