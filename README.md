@@ -36,7 +36,7 @@
 * As a user, I would like to see an image of the artist
 
 ## Wireframes 
-Format: ![Alt Text](http://gph.is/1JQA0wY)
+Format: ![Alt Text](https://giphy.com/gifs/3xz2BvAjg73osHP2ww/html5)
 
 ## Descriptions of any Unsolved problems or major hurdles you had to overcome
 
