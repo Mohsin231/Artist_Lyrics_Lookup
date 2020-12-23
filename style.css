@@ -1,44 +1,56 @@
-/* https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaper-mania.com%2Fbackground%2Fmusic-wallpapers%2Fmusic-sound-waves-live%2F&psig=AOvVaw092Nx4GRki9I5gz9pECk0A&ust=1608565171754000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLC-r5b23O0CFQAAAAAdAAAAABAD */
-
-
 html {
-    /* background-image: url("https://steamuserimages-a.akamaihd.net/ugc/931551196253772421/208C371B8E73E667B9955B0CB01CB47E49DFF330/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"); */
-    background-image: url("music.jpg"); 
+    background-image: url("music.jpg");
     background-repeat: no-repeat;
-    background-size: 100%; 
-    color: white; 
+    background-size: 100%;
+    color: white;
     font-family: 'Langar', cursive;
     font-size: 16px;
-    
-
-    
 }
 
+div {
+    padding-top: 230px;
+    display: flex;
+    justify-content: row;
+    justify-content: space-around;
 
-
-main {
-    display:flex;
-    flex-direction: column-reverse;
 }
 
-img{
+h3,
+h2 {
+    background-color: dodgerblue;
+    border: none;
+    color: #fff;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    font-size: 23px;
+
+}
+
+p {
+    font-size: 23px;
+}
+
+img {
     width: 200px;
-    height: 200px;;
-    
+    height: 200px;
+    ;
+
 }
 
 form {
     text-align: center;
 }
+
 input {
     background-color: dodgerblue;
-        border: none;
-        color: #fff;
-        padding: 15px 30px;
-        text-decoration: none;
-        margin: 4px 2px;
-        cursor: pointer;
+    border: none;
+    color: #fff;
+    padding: 15px 30px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
 }
+
 /* https://www.designpieces.com/2012/12/how-to-style-html5-input-placeholder-with-css */
 
 input::-webkit-input-placeholder {
@@ -46,63 +58,108 @@ input::-webkit-input-placeholder {
     font-weight: bold;
 }
 
-div {
-    padding-top:230px;
-    display: flex;
-    justify-content: row;
-    justify-content: space-around;
-    
-}
-h3, h2 {
-        background-color: dodgerblue;
-        border: none;
-        color: #fff;
-        padding: 10px 10px 10px 10px;
-        text-decoration: none;
-        font-size: 23px;
-        
-}
-
-p {
-    font-size: 23px;
-}
-
 .boxed {
-    border: 1px solid blue ;
-    background-color:rgba(0,0,0,0.7);
-    min-height: 280px;
+    border: 1px solid blue;
+    background-color: rgba(0, 0, 0, 0.7);
+    min-height: 420px;
 
-    
+
 }
 
 #image {
     position: absolute;
-    top: 80px;
-    right: 890px;
-    
+    top: 100px;
+    right: 860px;
+
+
 }
 
 
-#bio {
+#lyrics {
     position: absolute;
     top: 435px;
     width: 90%;
     font-size: 20px;
-    
 
-    
+
+
 }
-#biotitle {
+
+#lyricsTitle {
     position: absolute;
     bottom: 470px;
-    
-    
-    
+
 }
 
 
-/* @media screen and (min-width:800px){
-    main{
-        
+@media screen and (max-width:1370px) {
+
+    input {
+        background-color: dodgerblue;
+        border: none;
+        color: #fff;
+        padding: 5px 15px;
+        text-decoration: none;
+        margin: 2px 1px;
+        cursor: pointer;
     }
-} */
+
+    div {
+        padding-top: 200px;
+        display: flex;
+        justify-content: row;
+        justify-content: space-around;
+
+    }
+
+    h3,
+    h2 {
+        background-color: dodgerblue;
+        border: none;
+        color: #fff;
+        padding: 2px 2px 2px 2px;
+        text-decoration: none;
+        font-size: 20px;
+
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    img {
+        width: 180px;
+        height: 180px;
+
+    }
+
+    #lyricsTitle {
+        position: absolute;
+        bottom: 390px;
+        font-size: 25px;
+
+    }
+
+    #lyrics {
+        position: absolute;
+        top: 350px;
+        width: 90%;
+        font-size: 15px;
+
+    }
+
+    #image {
+        position: block;
+        top: 55px;
+        right: 620px;
+
+    }
+
+    .boxed {
+        border: 1px solid blue;
+        background-color: rgba(0, 0, 0, 0.7);
+        min-height: 230px;
+    }
+
+}
+
