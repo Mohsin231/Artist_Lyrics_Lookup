@@ -38,6 +38,10 @@
 * CSS3
 
 ## User Stories 
+* As a user, I want to see information about the artist
+* As a user, I want the information displayed to be organized and easy to read
+* As a user, I would like to search more than one artist
+* As a user, I would like to see an image of the artist
 
 ## Wireframes 
 
@@ -48,4 +52,5 @@
 
 ## Link
 https://mohsin231.github.io/Artist_Lookup_API/
+
 
