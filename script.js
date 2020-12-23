@@ -90,35 +90,7 @@ searchButton.addEventListener("click", function (event) {
 
 // //songAPI=`https://api.lyrics.ovh/v1/${artist}/${song}`,
 
-/*
-SPOTIFY
 
-Client id:
-021fc83b92e34390b2e14924141f73e7
-
-client secret id
-db02c7fc516642eab8fcb4131060cc63
-
-converted to unicode
-021fc83b92e34390b2e14924141f73e7:db02c7fc516642eab8fcb4131060cc63
-
-redirecturi
-https%3A%2F%2Fapi-university.com%2F
-
-
-https://accounts.spotify.com/authorize?client_id=
-021fc83b92e34390b2e14924141f73e7&scopes=playlist-read-private&response_type=code&redirect_uri=https%3A%2F%2Fgeneralassemb.ly%2F
-
-
-
-curl -H "Authorization: Basic MDIxZmM4M2I5MmUzNDM5MGIyZTE0OTI0MTQxZjczZTc6ZGIwMmM3ZmM1MTY2NDJlYWI4ZmNiNDEzMTA2MGNjNjM=" -d grant_type=authorization_code -d code=https://api-university.com/?code=AQAH5abQrMGKG29ZvSz11DsuzNTEM29zMQqOXCC3lX398eyxhsxOiix1U0WVTPfEbgjKm8rifmV-ZgVxEN7vt-a0qbhhOG3Gm4OOKuH8rifVEP0S0BOBdSZ0hdiJjEKVtdiGoGXqpNHhdB1kmdBmfY0vUWCFDe5ysQzQDqGfxA -d redirect_uri=https%3A%2F%2Fgeneralassemb.ly%2F https://accounts.spotify.com/api/token
-
-
-
-From <https://developer.spotify.com/dashboard/applications/021fc83b92e34390b2e14924141f73e7> 
-
-//NEED TOKEN
-*/
 
 
 
