@@ -1,25 +1,16 @@
-# Artist_Lookup_API
+# Artist_Lyrics_Website
 
- An embedded screenshot of the app
- Technologies used: JavaScript, HTML5, CSS3
- Installation instructions
- Your User stories – who are your users, what do they want and why?
- Wireframes – sketches of major views / interfaces in your application
- 
- Descriptions of any Unsolved problems or major hurdles you had to overcome
- 
- 
  ## Timeframe
  
 | Task | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Setting up site framework | H | 1 hrs| 1.5 hrs | 1.5 hrs |
 | Getting API to log and render | H |  1.25 hrs| 3 hrs | 3 hrs | Spotify API didn't work
-| Creating game logic | H | 2 hrs| 2 hrs |  2 hrs  |
+| Creating game logic | H | 2 hrs| 3 hrs |  3 hrs  |
 | Getting search bars functioning | M | 1 hrs|  2 hrs | 2 hrs |
-| Styling| M | 2 hrs|   2.5 hrs|  2.5 hrs |
+| Styling| M | 2 hrs|   4 hrs|  4 hrs |
 | Responsive Styling | L | 2 hrs| 2 hrs |  2 hrs  |
-| Total | X | 9.25 hrs | 13 hrs  |  13 hrs|
+| Total | X | 9.25 hrs | 15.5 hrs  |  15.5 hrs|
 
 ## Project Schedule 
 
@@ -38,12 +29,14 @@
 * CSS3
 
 ## User Stories 
-* As a user, I want to see information about the artist
+* As a user, I want to see information about the artist I searched
+* As a user. I want to see the lyrics to the song I searched
 * As a user, I want the information displayed to be organized and easy to read
 * As a user, I would like to search more than one artist
 * As a user, I would like to see an image of the artist
 
 ## Wireframes 
+Format: ![Alt Text](http://gph.is/1JQA0wY)
 
 ## Descriptions of any Unsolved problems or major hurdles you had to overcome
 
