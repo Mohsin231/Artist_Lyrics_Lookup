@@ -1,5 +1,8 @@
 # Artist_Lyrics_Website
 
+## Winter GIF
+<img src="https://media.giphy.com/media/3xz2BvAjg73osHP2ww/source.gif" alt="gif" height="300" width="350"/>
+
  ## Timeframe
  
 | Task | Priority | Estimated Time | Time Invested | Actual Time |
@@ -36,11 +39,12 @@
 * As a user, I would like to see an image of the artist
 
 ## Wireframes 
-Format: ![Alt Text](https://media.giphy.com/media/3xz2BvAjg73osHP2ww/source.gif)
+![Website](wireframe.jpg)
 
 ## Descriptions of any Unsolved problems or major hurdles you had to overcome
+* I tried to get the Spotify API to work but it was time consuming and I was running into multiple errors
 
-## Screenshot of Website 
+## Screenshot of the Website 
 ![Website](screenshot.PNG)
 
 ## Link
