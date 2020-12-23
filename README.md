@@ -39,7 +39,7 @@
 * As a user, I would like to see an image of the artist
 
 ## Wireframes 
-![Website](wireframe.jpg)
+![Website](wireframe.PNG)
 
 ## Descriptions of any Unsolved problems or major hurdles you had to overcome
 * I tried to get the Spotify API to work but it was time consuming and I was running into multiple errors
