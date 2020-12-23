@@ -48,7 +48,7 @@
 ## Descriptions of any Unsolved problems or major hurdles you had to overcome
 
 ## Screenshot of Website 
-![Website](web_screenshot.PNG)
+![Website](screenshot.PNG)
 
 ## Link
 https://mohsin231.github.io/Artist_Lyrics_Lookup/
